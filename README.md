@@ -6,3 +6,4 @@ If you're poking around here then hopefully I've coded something you're interest
 :star2: Future IT desk helper probably :desktop_computer:
 :star2: Happy NixOS user! <!-- ![Static Badge](https://img.shields.io/badge/Lover-NixOS?label=NixOS&labelColor=7eb8e2&color=959896) -->
 
+<img src="https://komarev.com/ghpvc/?itsnotahlo&style=flat-square&color=blue" alt=""/>
