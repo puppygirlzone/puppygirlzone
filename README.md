@@ -1,9 +1,12 @@
-# SHE FOUND US
-If you're poking around here then hopefully I've coded something you're interested in.
-## Bit about me
-:star2: Aussie who has never experienced the world :australia:
-:star2: Transgender Programmer :transgender:
-:star2: Future IT desk helper probably :desktop_computer:
-:star2: Happy NixOS user! <!-- ![Static Badge](https://img.shields.io/badge/Lover-NixOS?label=NixOS&labelColor=7eb8e2&color=959896) -->
+<!-- # SHE FOUND US -->
+<!-- If you're poking around here then hopefully I've coded something you're interested in. -->
+<!-- ## Bit about me -->
+<!-- :star2: Aussie who has never experienced the world :australia: -->
+<!-- :star2: Transgender Programmer :transgender: -->
+<!-- :star2: Future IT desk helper probably :desktop_computer: -->
+<!-- :star2: Happy NixOS user! <!-- ![Static Badge](https://img.shields.io/badge/Lover-NixOS?label=NixOS&labelColor=7eb8e2&color=959896) --> -->
 
-<img src="https://komarev.com/ghpvc/?itsnotahlo&style=flat-square&color=blue" alt=""/>
+<!-- <img src="https://komarev.com/ghpvc/?itsnotahlo&style=flat-square&color=blue" alt=""/> -->
+<div id="header" align="center">
+    <img src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" width="100"/>
+</div>
