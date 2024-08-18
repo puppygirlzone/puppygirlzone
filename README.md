@@ -1,11 +1,10 @@
 <div id="header" align="center">
     <img src="https://64.media.tumblr.com/cc8c5565e482137b321f3ec8ac20a00c/tumblr_inline_nl5nohPphc1sptc1c.gif" width="300"/>
     <div id="badges">
-        <img src="https://img.shields.io/badge/Lover-NixOS?style=flat&logo=nixos&logoSize=auto&label=NixOS&labelColor=7eb8e2&color=959896"/>
-        <img src="https://komarev.com/ghpvc/?itsnotahlo&style=flat-square&color=purple" alt=""/>   
-        <img src="https://img.shields.io/badge/Enjoyer-Hyprland?style=flat&logo=hyprland&logoSize=auto&label=Hyprland&color=cc3399"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Lover-nixos?style=for-the-badge&logo=nixos&logoColor=white&label=NixOS&labelColor=363a4f&color=7eb8e2"/>
+        <img alt="Static Badge" src="https://img.shields.io/badge/Enjoyer-hypr?style=for-the-badge&logo=hyprland&logoColor=white&label=Hyprland&labelColor=363a4f&color=f5bde6"> 
         <a href="https://en.pronouns.page/u/itsnotahlo">
-            <img alt="Static Badge" src="https://img.shields.io/badge/She%2FHer-Pronouns?style=flat&logo=githubsponsors&logoSize=auto&label=Pronouns.Page&color=cc3399">
+            <img alt="Static Badge" src="https://img.shields.io/badge/She%2FHer-Pronouns?style=for-the-badge&logo=githubsponsors&logoSize=auto&logoColor=c6a0f6&label=Pronouns.Page&labelColor=363a4f&color=c6a0f6">
         </a>
     </div>
 </div>
@@ -38,4 +37,5 @@
 
 ---
 
+![](https://komarev.com/ghpvc/?username=itsnotahlo&style=for-the-badge&color=f5bde6&abbreviated=true)\
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsnotahlo&theme=catppuccin-mocha&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
