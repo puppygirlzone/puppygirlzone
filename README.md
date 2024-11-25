@@ -3,7 +3,7 @@
     <div id="badges">
         <img alt="Static Badge" src="https://img.shields.io/badge/Lover-nixos?style=for-the-badge&logo=nixos&logoColor=white&label=NixOS&labelColor=363a4f&color=7eb8e2"/>
         <img alt="Static Badge" src="https://img.shields.io/badge/Enjoyer-hypr?style=for-the-badge&logo=hyprland&logoColor=white&label=Hyprland&labelColor=363a4f&color=f5bde6"> 
-        <a href="https://en.pronouns.page/u/itsnotahlo">
+        <a href="https://en.pronouns.page/@puppygirl.zone">
             <img alt="Static Badge" src="https://img.shields.io/badge/She%2FHer-Pronouns?style=for-the-badge&logo=githubsponsors&logoSize=auto&logoColor=c6a0f6&label=Pronouns.Page&labelColor=363a4f&color=c6a0f6">
         </a>
     </div>
