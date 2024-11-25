@@ -38,4 +38,4 @@
 ---
 
 ![](https://komarev.com/ghpvc/?username=itsnotahlo&style=for-the-badge&color=f5bde6&abbreviated=true)\
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=itsnotahlo&theme=catppuccin-mocha&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=puppygirlzone&theme=catppuccin-mocha&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
